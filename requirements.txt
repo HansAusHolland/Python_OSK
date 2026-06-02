@@ -1,6 +1,4 @@
 ddlpy
 pandas
-matplotlib.pyplot
-matplotlib.dates
-datetime
+matplotlib
 numpy
